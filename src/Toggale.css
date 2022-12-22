@@ -1,0 +1,11 @@
+.T{
+    padding-right: 150px;
+}
+
+.ToggaleContainer{
+    width: 70px;
+    height: 32px;
+    background-color: #1ab394;
+    border-radius: 3px;
+    text-align: left;
+}
